@@ -1,0 +1,612 @@
+[
+    {
+        "name": "airtable",
+        "displayName": "Airtable",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/airtable.png",
+        "version": "0.2.6",
+        "actions": 1,
+        "triggers": 1
+    },
+    {
+        "name": "asana",
+        "displayName": "Asana",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/asana.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "bannerbear",
+        "displayName": "Bannerbear",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/bannerbear.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "binance",
+        "displayName": "Binance",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/binance.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "blackbaud",
+        "displayName": "Blackbaud",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/blackbaud.png",
+        "version": "0.2.2",
+        "actions": 2,
+        "triggers": 0
+    },
+    {
+        "name": "cal-com",
+        "displayName": "Cal.com",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/cal.com.png",
+        "version": "0.2.1",
+        "actions": 0,
+        "triggers": 3
+    },
+    {
+        "name": "calendly",
+        "displayName": "Calendly",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/calendly.png",
+        "version": "0.2.1",
+        "actions": 0,
+        "triggers": 2
+    },
+    {
+        "name": "clickup",
+        "displayName": "Clickup",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/clickup.png",
+        "version": "0.2.1",
+        "actions": 8,
+        "triggers": 5
+    },
+    {
+        "name": "connections",
+        "displayName": "Connections",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/connections.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "constant-contact",
+        "displayName": "Constant Contact",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/constant-contact.png",
+        "version": "0.0.2",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "csv",
+        "displayName": "CSV",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/csv.png",
+        "version": "0.2.1",
+        "actions": 2,
+        "triggers": 0
+    },
+    {
+        "name": "data-mapper",
+        "displayName": "Data Mapper",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/data-mapper.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "delay",
+        "displayName": "Delay",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/delay.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "discord",
+        "displayName": "Discord",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/discord.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "drip",
+        "displayName": "Drip",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/drip.png",
+        "version": "0.2.1",
+        "actions": 3,
+        "triggers": 2
+    },
+    {
+        "name": "dropbox",
+        "displayName": "DropBox",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/dropbox.png",
+        "version": "0.2.1",
+        "actions": 2,
+        "triggers": 0
+    },
+    {
+        "name": "figma",
+        "displayName": "Figma",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/figma.png",
+        "version": "0.2.1",
+        "actions": 3,
+        "triggers": 1
+    },
+    {
+        "name": "freshsales",
+        "displayName": "Freshsales",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/freshsales.png",
+        "version": "0.2.3",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "generatebanners",
+        "displayName": "GenerateBanners",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/generatebanners.png",
+        "version": "0.2.2",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "github",
+        "displayName": "Github",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/github.png",
+        "version": "0.2.1",
+        "actions": 0,
+        "triggers": 3
+    },
+    {
+        "name": "gmail",
+        "displayName": "Gmail",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/gmail.png",
+        "version": "0.2.7",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "google-calendar",
+        "displayName": "Google Calendar",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/google-calendar.png",
+        "version": "0.2.2",
+        "actions": 1,
+        "triggers": 1
+    },
+    {
+        "name": "google-contacts",
+        "displayName": "Google Contacts",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/google-contacts.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 1
+    },
+    {
+        "name": "google-drive",
+        "displayName": "Google Drive",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/google-drive.png",
+        "version": "0.2.1",
+        "actions": 2,
+        "triggers": 0
+    },
+    {
+        "name": "google-forms",
+        "displayName": "Google Forms",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/google-forms.png",
+        "version": "0.0.2",
+        "actions": 0,
+        "triggers": 1
+    },
+    {
+        "name": "google-sheets",
+        "displayName": "Google Sheets",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/google-sheets.png",
+        "version": "0.2.6",
+        "actions": 2,
+        "triggers": 1
+    },
+    {
+        "name": "google-tasks",
+        "displayName": "Google Tasks",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/google-tasks.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "hackernews",
+        "displayName": "Hacker News",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/hackernews.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "http",
+        "displayName": "HTTP Request",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/http.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "hubspot",
+        "displayName": "HubSpot",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/hubspot.png",
+        "version": "0.2.1",
+        "actions": 3,
+        "triggers": 0
+    },
+    {
+        "name": "intercom",
+        "displayName": "Intercom",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/intercom.png",
+        "version": "0.2.1",
+        "actions": 3,
+        "triggers": 0
+    },
+    {
+        "name": "mailchimp",
+        "displayName": "Mailchimp",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/mailchimp.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 1
+    },
+    {
+        "name": "mailer-lite",
+        "displayName": "MailerLite",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/mailer-lite.png",
+        "version": "0.0.2",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "mastodon",
+        "displayName": "Mastodon",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/mastodon.png",
+        "version": "0.0.3",
+        "minimumSupportedRelease": "0.3.9",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "matrix",
+        "displayName": "Matrix",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/matrix.png",
+        "version": "0.0.2",
+        "minimumSupportedRelease": "0.3.9",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "mattermost",
+        "displayName": "Mattermost",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/mattermost.png",
+        "version": "0.0.3",
+        "minimumSupportedRelease": "0.3.9",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "mindee",
+        "displayName": "Mindee",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/mindee.png",
+        "version": "0.0.2",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "monday",
+        "displayName": "Monday",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/monday.png",
+        "version": "0.0.1",
+        "actions": 1,
+        "triggers": 2
+    },
+    {
+        "name": "notion",
+        "displayName": "Notion",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/notion.png",
+        "version": "0.0.3",
+        "minimumSupportedRelease": "0.3.10",
+        "actions": 0,
+        "triggers": 1
+    },
+    {
+        "name": "openai",
+        "displayName": "OpenAI",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/openai.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "pipedrive",
+        "displayName": "Pipedrive",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/pipedrive.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 5
+    },
+    {
+        "name": "postgres",
+        "displayName": "Postgres",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/postgres.png",
+        "version": "0.0.2",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "posthog",
+        "displayName": "PostHog",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/posthog.png",
+        "version": "0.2.2",
+        "actions": 2,
+        "triggers": 0
+    },
+    {
+        "name": "rss",
+        "displayName": "RSS Feed",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/rss.png",
+        "version": "0.2.4",
+        "actions": 0,
+        "triggers": 1
+    },
+    {
+        "name": "salesforce",
+        "displayName": "Salesforce",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/salesforce.png",
+        "version": "0.0.5",
+        "actions": 0,
+        "triggers": 2
+    },
+    {
+        "name": "schedule",
+        "displayName": "Schedule",
+        "description": "Trigger flow with fixed schedule",
+        "logoUrl": "https://cdn.activepieces.com/pieces/schedule.png",
+        "version": "0.0.3",
+        "minimumSupportedRelease": "0.3.8",
+        "actions": 0,
+        "triggers": 5
+    },
+    {
+        "name": "sendgrid",
+        "displayName": "SendGrid",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/sendgrid.png",
+        "version": "0.2.3",
+        "actions": 2,
+        "triggers": 0
+    },
+    {
+        "name": "sendinblue",
+        "displayName": "Sendinblue",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/sendinblue.png",
+        "version": "0.0.2",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "shopify",
+        "displayName": "Shopify",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/shopify.png",
+        "version": "0.0.2",
+        "minimumSupportedRelease": "0.3.9",
+        "actions": 0,
+        "triggers": 4
+    },
+    {
+        "name": "slack",
+        "displayName": "Slack",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/slack.png",
+        "version": "0.2.2",
+        "actions": 2,
+        "triggers": 2
+    },
+    {
+        "name": "smtp",
+        "displayName": "SMTP",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/smtp.png",
+        "version": "0.0.4",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "square",
+        "displayName": "square",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/square.png",
+        "version": "0.2.1",
+        "actions": 0,
+        "triggers": 7
+    },
+    {
+        "name": "store",
+        "displayName": "Storage",
+        "description": "Store or retrieve data from activepieces key/value database",
+        "logoUrl": "https://cdn.activepieces.com/pieces/store.png",
+        "version": "0.2.3",
+        "actions": 5,
+        "triggers": 0
+    },
+    {
+        "name": "stripe",
+        "displayName": "Stripe",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/stripe.png",
+        "version": "0.2.1",
+        "actions": 0,
+        "triggers": 4
+    },
+    {
+        "name": "telegram-bot",
+        "displayName": "Telegram bot",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/telegram_bot.png",
+        "version": "0.2.4",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "todoist",
+        "displayName": "Todoist",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/todoist.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 1
+    },
+    {
+        "name": "trello",
+        "displayName": "Trello",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/trello.png",
+        "version": "0.2.2",
+        "actions": 2,
+        "triggers": 0
+    },
+    {
+        "name": "twilio",
+        "displayName": "Twilio",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/twilio.png",
+        "version": "0.2.1",
+        "actions": 1,
+        "triggers": 1
+    },
+    {
+        "name": "typeform",
+        "displayName": "TypeForm",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/typeform.png",
+        "version": "0.2.1",
+        "actions": 0,
+        "triggers": 1
+    },
+    {
+        "name": "vtex",
+        "displayName": "VTEX",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/vtex.png",
+        "version": "0.0.2",
+        "actions": 16,
+        "triggers": 0
+    },
+    {
+        "name": "wordpress",
+        "displayName": "Wordpress",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/wordpress.png",
+        "version": "0.2.2",
+        "actions": 1,
+        "triggers": 1
+    },
+    {
+        "name": "xero",
+        "displayName": "Xero",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/xero.png",
+        "version": "0.0.2",
+        "actions": 2,
+        "triggers": 0
+    },
+    {
+        "name": "xml",
+        "displayName": "XML",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/xml.png",
+        "version": "0.0.2",
+        "actions": 1,
+        "triggers": 0
+    },
+    {
+        "name": "youtube",
+        "displayName": "YouTube",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/youtube.png",
+        "version": "0.2.2",
+        "actions": 0,
+        "triggers": 1
+    },
+    {
+        "name": "zendesk",
+        "displayName": "Zendesk",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/zendesk.png",
+        "version": "0.0.4",
+        "actions": 0,
+        "triggers": 1
+    },
+    {
+        "name": "zoho-crm",
+        "displayName": "Zoho CRM",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/zoho-crm.png",
+        "version": "0.0.3",
+        "minimumSupportedRelease": "0.3.9",
+        "actions": 0,
+        "triggers": 1
+    },
+    {
+        "name": "zoom",
+        "displayName": "Zoom",
+        "description": "",
+        "logoUrl": "https://cdn.activepieces.com/pieces/zoom.png",
+        "version": "0.2.1",
+        "actions": 2,
+        "triggers": 0
+    }
+]
