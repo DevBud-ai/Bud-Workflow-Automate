@@ -3,14 +3,16 @@ from openai_llm import get_openai_result
 import re
 import json
 import requests
+import os
 
 
 pieces_json_path = 'pieces.json'
 
+token = os.getenv('TOKEN')
 url_base_path = "http://13.233.191.14:3000/v1/"
 headers = {
     'Content-Type': 'application/json',
-    'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJpZCI6IlNSbkJEUE1vR2dlbGdBU3RnVlJvSCIsInR5cGUiOiJVU0VSIiwicHJvamVjdElkIjoicG9yUEZOMWdObGlWeTRXajU3VFJYIiwiaWF0IjoxNjgzMjM0OTgxLCJleHAiOjE2ODM4Mzk3ODEsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.W3GSQ_wAF3QL-Ny3Lr57_cK-HXc3N5jH9vuaykGMFHw'
+    'Authorization': f'{token}'
 }
 
 def run_pieces_requests(endpoint, type, headers, payload):
@@ -75,7 +77,7 @@ def extract_trigger_action(input_string: str):
     return trigger_array, action_array
 
 
-def create_flow(flow_name="new_flow", collectionId="LOingOqUn44JZ13jxZLSO"):
+def create_flow(flow_name="new_flow", collectionId="5JAHklNOpdQDZOkU8g4hV"):
     endpoint = 'flows'
     payload = json.dumps({
         "displayName": flow_name,
